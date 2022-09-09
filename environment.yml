@@ -1,0 +1,10 @@
+name: cs197lec2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - tqdm
+  - flake8
+  - pylint
+prefix: /Users/bkan/opt/anaconda3/envs/cs197lec2
